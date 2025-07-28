@@ -56,12 +56,18 @@ Contiene consultas para obtener información específica a partir de los datos r
 
 ## Historial de cambios (commits)
 
-- Creación del modelo entidad-relación y estructura inicial del repositorio.
-- Implementación de scripts DDL y DML.
-- Desarrollo de consultas SQL con filtros y uniones de tablas.
+-Archivo readme listo.
+Se completó la documentación del proyecto incluyendo objetivos, estructura, instrucciones y autoría.
+
+-diagrama agregado.
+Se agregó el modelo entidad-relación (ER) en formato imagen a la carpeta /diagramas.
+
+-Tablas, datos y consultas listas.
+Se desarrollaron los scripts SQL que contienen la creación de tablas, inserción y manipulación de datos, así como consultas estructuradas.
+
+
 
 ## Autora
-
 Massiel Díaz  
 Técnico en Programación y Análisis de Sistemas  
 GitHub: https://github.com/massielsdc  
